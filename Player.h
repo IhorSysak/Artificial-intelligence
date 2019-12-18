@@ -1,9 +1,3 @@
-/*
- * Player.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* Encodes the state of a player, mostly the name, tiles, points. 
    The main non-trivial ability of this class is to produce a vector

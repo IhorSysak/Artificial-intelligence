@@ -1,9 +1,3 @@
-/*
- * Util.h
- *
- *  Created on: Sep 21, 2016
- *      Author: kempe
- */
 
 /* This file collects little functions that could be helpful in a few places.
    So far, only one. */

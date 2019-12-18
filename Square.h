@@ -1,9 +1,3 @@
-/*
- * Square.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* This class encodes a single square of the Scrabble board.
    It functions almost as a struct, and does not do interesting computation. */

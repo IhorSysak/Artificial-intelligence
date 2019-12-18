@@ -1,9 +1,3 @@
-/*
- * Exceptions.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* This file contains custom-defined exceptions thrown to signal errors
    or problems in various parts of the code.

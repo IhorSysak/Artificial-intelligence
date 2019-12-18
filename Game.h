@@ -1,9 +1,4 @@
-/*
- * Game.h
- *
- *  Created on: Oct 11, 2016
- *      Author: kempe
- */
+
 
 /* Encodes the state of the Scrabble game, with all players, the board,
    the dictionary, and the bag.

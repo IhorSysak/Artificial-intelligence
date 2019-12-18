@@ -1,9 +1,3 @@
-/*
- * Tile.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* Encodes a single tile. Basically acts like a struct, 
    without interesting computation. */

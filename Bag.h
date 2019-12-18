@@ -1,9 +1,3 @@
-/*
- * Bag.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* The class Bag encodes a bag of tiles for the players to draw tiles from. */
 

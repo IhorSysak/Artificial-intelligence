@@ -1,9 +1,3 @@
-/*
- * Dictionary.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* The class Dictionary encodes the list of all legal words. */
 

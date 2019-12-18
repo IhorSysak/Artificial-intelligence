@@ -1,9 +1,3 @@
-/*
- * Move.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* The class Move encodes a move made by one player, including its type
    (PASS, EXCHANGE, PLACE), the tiles used (and use for blanks),

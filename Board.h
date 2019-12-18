@@ -1,9 +1,3 @@
-/*
- * Board.h
- *
- *  Created on: Sep 18, 2016
- *      Author: kempe
- */
 
 /* The class Board encodes the state of the Scrabble board.
    It provides functions for displaying the board,
